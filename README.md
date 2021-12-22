@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ozgunsarioguz
-- 👀 I’m developing myself in front-end & back-end software development
-- 🌱 I’m currently learning Javascript, frameworks and libraries such as React, Angular, as well as Git, Networks, CI/CD, Containerization with Docker, and many other discipline.
+- 👀 I’m developing myself in software development as well as in Computer Science.
 - 📫 How to reach me ...
 
 <!---
