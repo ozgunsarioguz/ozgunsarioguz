@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @ozgunsarioguz
-- 👀 I’m developing myself in software development as well as in Computer Science.
+- 👋 Hi, I’m @ozgunsarioguz,
+- 
+- i'm an experienced mechanical engineer who has been developing himself in data analysis and in Computer Science.
+- 
 - 📫 How to reach me ...
 
 <!---
