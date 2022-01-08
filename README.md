@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozgunsarioguz,
 - 
-- i'm an experienced mechanical engineer who has been developing himself in data analysis and in Computer Science.
+- i'm an experienced engineer, developing myself in data analysis and generally in Computer Science.
 - 
 - 📫 How to reach me ...
 
